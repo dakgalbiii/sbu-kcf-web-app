@@ -1,0 +1,70 @@
+/*!************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[1]!./node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/@next/font/local/target.css?{"path":"src/app/NeueHaasGroteskFont.ts","import":"","arguments":[{"src":[{"path":"../../public/fonts/NeueHaasDisplayBlack.ttf","weight":"900","style":"normal"},{"path":"../../public/fonts/NeueHaasDisplayBold.ttf","weight":"800","style":"normal"},{"path":"../../public/fonts/NeueHaasDisplayMediu.ttf","weight":"700","style":"normal"},{"path":"../../public/fonts/NeueHaasDisplayRoman.ttf","weight":"500","style":"normal"},{"path":"../../public/fonts/NeueHaasDisplayLight.ttf","weight":"400","style":"normal"},{"path":"../../public/fonts/NeueHaasDisplayThin.ttf","weight":"300","style":"normal"},{"path":"../../public/fonts/NeueHaasDisplayXThin.ttf","weight":"200","style":"normal"},{"path":"../../public/fonts/NeueHaasDisplayXXThin.ttf","weight":"100","style":"normal"}],"variable":"--font-neueHaasGrotesk"}],"variableName":"NeueHaasGrotesk"} ***!
+  \************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+@font-face {
+font-family: '__NeueHaasGrotesk_bec60b';
+src: url(/_next/static/media/3a13088a301a6f40-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 900;
+font-style: normal;
+}
+
+@font-face {
+font-family: '__NeueHaasGrotesk_bec60b';
+src: url(/_next/static/media/39a52bbbed891f6d-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 800;
+font-style: normal;
+}
+
+@font-face {
+font-family: '__NeueHaasGrotesk_bec60b';
+src: url(/_next/static/media/431ddfdd27fa066b-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 700;
+font-style: normal;
+}
+
+@font-face {
+font-family: '__NeueHaasGrotesk_bec60b';
+src: url(/_next/static/media/c3d1d4a99992ccf7-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 500;
+font-style: normal;
+}
+
+@font-face {
+font-family: '__NeueHaasGrotesk_bec60b';
+src: url(/_next/static/media/9d83b96876f7c7a6-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 400;
+font-style: normal;
+}
+
+@font-face {
+font-family: '__NeueHaasGrotesk_bec60b';
+src: url(/_next/static/media/1e335d9ca208814c-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 300;
+font-style: normal;
+}
+
+@font-face {
+font-family: '__NeueHaasGrotesk_bec60b';
+src: url(/_next/static/media/96a7b7b9371f6736-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 200;
+font-style: normal;
+}
+
+@font-face {
+font-family: '__NeueHaasGrotesk_bec60b';
+src: url(/_next/static/media/7afd71435caeb616-s.p.ttf) format('truetype');
+font-display: swap;
+font-weight: 100;
+font-style: normal;
+}@font-face {font-family: '__NeueHaasGrotesk_Fallback_bec60b';src: local("Arial");ascent-override: 91.78%;descent-override: 20.42%;line-gap-override: 22.44%;size-adjust: 89.12%
+}.__className_bec60b {font-family: '__NeueHaasGrotesk_bec60b', '__NeueHaasGrotesk_Fallback_bec60b'
+}.__variable_bec60b {--font-neueHaasGrotesk: '__NeueHaasGrotesk_bec60b', '__NeueHaasGrotesk_Fallback_bec60b'
+}
+
